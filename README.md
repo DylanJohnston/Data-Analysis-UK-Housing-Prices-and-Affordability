@@ -119,11 +119,11 @@ Another notable part of the repository is the `ReportWalkthrough/` directory. It
 
 - I chose to use median salary data over mean salary data, as the latter is too heavily skewed by very high earners. Whilst not perfect, the median feels like a better representation of the "average person."
   
-- Data is messy... Values are missing, and the formatting can be less than ideal to say the least. However, spending the time to clean it well makes the remainder of the workflow *so much* easier.
+- Data is messy... Values are missing, and the formatting can be less than ideal, to say the least. However, spending the time to clean it well makes the remainder of the workflow *so much* easier.
 - Within (My)SQL, I have gained much more experience and confidence with CTEs. This includes recursive CTEs and the usage of CTEs within `CREATE TABLE ... AS SELECT` queries.
-- This was the first project where I consciously applied and thought about modelling with a star schema structure (and, in particular, thinking of tables as either dimension tables or fact tables), and I have to say it makes things so neat and tidy! I am a big fan!
-- Within Power BI, I have understood that DAX *is all about context*. I have also come to realise that DAX is ridiculously versatile, and a solution exists for almost any issue.
-- I also deepened my understanding regarding the "philosophy of measures", how they behave, how they depend on context, and the amazing flexibility they have.
+- This was the first project where I consciously applied and thought about modelling with a star schema structure (and, in particular, thinking of tables as either dimension tables or fact tables), and it makes things so neat and tidy! I am a big fan!
+- I deepened my understanding in regards to the "philosophy of measures" and how they are *all about context*. I much better understand how they behave in relation to slicer, visual and relationship filters, and the amazing flexibility they have.
+- I have also come to realise that DAX is ridiculously versatile, and a solution exists for almost any issue.
 - Creating a step-by-step walk through of an entire workflow takes a *long* time :) but it will be nice to refer to and look back on in the future, and the process of writing everything up has helped me digest and understand concepts much better, so it was definitely worth it!
 
 ## Credits
