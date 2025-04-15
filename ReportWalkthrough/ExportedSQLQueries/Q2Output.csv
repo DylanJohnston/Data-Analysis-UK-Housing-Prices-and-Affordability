@@ -1,0 +1,301 @@
+year,region,affordability_index
+1999,"East Midlands",3.27990000
+1999,"East of England",4.21953333
+1999,London,5.50755833
+1999,"North East",2.73100000
+1999,"North West",2.74867500
+1999,"Northern Ireland",3.71690000
+1999,Scotland,2.84037500
+1999,"South East",5.06542500
+1999,"South West",4.31058333
+1999,Wales,2.88398333
+1999,"West Midlands",3.09233333
+1999,"Yorkshire and the Humber",2.81851667
+2000,"East Midlands",3.45378333
+2000,"East of England",4.75196667
+2000,London,6.28101667
+2000,"North East",2.67657500
+2000,"North West",2.80535833
+2000,"Northern Ireland",3.95992500
+2000,Scotland,2.75347500
+2000,"South East",5.73822500
+2000,"South West",4.80397500
+2000,Wales,2.97952500
+2000,"West Midlands",3.26600000
+2000,"Yorkshire and the Humber",2.85627500
+2001,"East Midlands",3.69839167
+2001,"East of England",5.15447500
+2001,London,6.76025833
+2001,"North East",2.79345833
+2001,"North West",2.95940000
+2001,"Northern Ireland",4.16680000
+2001,Scotland,2.78947500
+2001,"South East",6.16509167
+2001,"South West",5.26935000
+2001,Wales,3.08252500
+2001,"West Midlands",3.50881667
+2001,"Yorkshire and the Humber",2.98179167
+2002,"East Midlands",4.35120833
+2002,"East of England",6.13809167
+2002,London,7.57989167
+2002,"North East",3.23794167
+2002,"North West",3.32528333
+2002,"Northern Ireland",4.39307500
+2002,Scotland,3.07729167
+2002,"South East",6.94694167
+2002,"South West",6.22384167
+2002,Wales,3.57230833
+2002,"West Midlands",4.08799167
+2002,"Yorkshire and the Humber",3.44884167
+2003,"East Midlands",5.34393333
+2003,"East of England",6.95616667
+2003,London,8.23146667
+2003,"North East",4.13850000
+2003,"North West",3.98865833
+2003,"Northern Ireland",4.73041667
+2003,Scotland,3.38970833
+2003,"South East",7.72647500
+2003,"South West",7.19333333
+2003,Wales,4.30518333
+2003,"West Midlands",5.02582500
+2003,"Yorkshire and the Humber",4.19523333
+2004,"East Midlands",6.07387500
+2004,"East of England",7.53270000
+2004,London,8.51281667
+2004,"North East",5.11306667
+2004,"North West",4.95721667
+2004,"Northern Ireland",4.93522500
+2004,Scotland,4.19483333
+2004,"South East",8.14619167
+2004,"South West",7.96505833
+2004,Wales,5.31263333
+2004,"West Midlands",5.68880833
+2004,"Yorkshire and the Humber",5.11291667
+2005,"East Midlands",6.27405000
+2005,"East of England",7.65916667
+2005,London,8.43091667
+2005,"North East",5.52260833
+2005,"North West",5.39948333
+2005,"Northern Ireland",5.64917500
+2005,Scotland,4.73475000
+2005,"South East",8.27458333
+2005,"South West",8.11707500
+2005,Wales,5.85745000
+2005,"West Midlands",5.94265000
+2005,"Yorkshire and the Humber",5.50835000
+2006,"East Midlands",6.43006667
+2006,"East of England",7.86305000
+2006,London,8.86211667
+2006,"North East",5.88451667
+2006,"North West",5.82216667
+2006,"Northern Ireland",7.02257500
+2006,Scotland,5.13947500
+2006,"South East",8.52985833
+2006,"South West",8.39646667
+2006,Wales,6.24690833
+2006,"West Midlands",6.08945000
+2006,"Yorkshire and the Humber",5.94441667
+2007,"East Midlands",6.75232500
+2007,"East of England",8.37903333
+2007,London,9.76274167
+2007,"North East",6.11883333
+2007,"North West",6.03771667
+2007,"Northern Ireland",9.65882500
+2007,Scotland,5.70947500
+2007,"South East",9.10416667
+2007,"South West",8.79626667
+2007,Wales,6.56242500
+2007,"West Midlands",6.26414167
+2007,"Yorkshire and the Humber",6.22107500
+2008,"East Midlands",6.08305000
+2008,"East of England",7.74921667
+2008,London,9.23179167
+2008,"North East",5.65105833
+2008,"North West",5.57013333
+2008,"Northern Ireland",7.55107500
+2008,Scotland,5.45462500
+2008,"South East",8.36460000
+2008,"South West",7.97400833
+2008,Wales,6.01384167
+2008,"West Midlands",5.70624167
+2008,"Yorkshire and the Humber",5.69451667
+2009,"East Midlands",5.30225833
+2009,"East of England",6.88230000
+2009,London,8.19127500
+2009,"North East",5.04480833
+2009,"North West",5.04120000
+2009,"Northern Ireland",5.81155000
+2009,Scotland,5.00081667
+2009,"South East",7.39899167
+2009,"South West",7.13940833
+2009,Wales,5.30144167
+2009,"West Midlands",5.13255000
+2009,"Yorkshire and the Humber",5.11114167
+2010,"East Midlands",5.61117500
+2010,"East of England",7.46041667
+2010,London,8.96199167
+2010,"North East",5.01697500
+2010,"North West",5.13751667
+2010,"Northern Ireland",5.56657500
+2010,Scotland,5.03591667
+2010,"South East",8.07695833
+2010,"South West",7.69150000
+2010,Wales,5.35042500
+2010,"West Midlands",5.41809167
+2010,"Yorkshire and the Humber",5.29270000
+2011,"East Midlands",5.53655000
+2011,"East of England",7.24870833
+2011,London,9.04321667
+2011,"North East",4.77845833
+2011,"North West",4.97536667
+2011,"Northern Ireland",4.75707500
+2011,Scotland,4.92698333
+2011,"South East",7.90974167
+2011,"South West",7.50575833
+2011,Wales,5.19665833
+2011,"West Midlands",5.15885833
+2011,"Yorkshire and the Humber",5.08995000
+2012,"East Midlands",5.42075833
+2012,"East of England",7.32712500
+2012,London,9.32749167
+2012,"North East",4.62867500
+2012,"North West",4.85216667
+2012,"Northern Ireland",4.06532500
+2012,Scotland,4.67523333
+2012,"South East",8.00074167
+2012,"South West",7.49018333
+2012,Wales,5.12770833
+2012,"West Midlands",5.10734167
+2012,"Yorkshire and the Humber",5.02058333
+2013,"East Midlands",5.47269167
+2013,"East of England",7.44019167
+2013,London,10.01880833
+2013,"North East",4.54847500
+2013,"North West",4.77749167
+2013,"Northern Ireland",3.94810000
+2013,Scotland,4.56849167
+2013,"South East",8.23300833
+2013,"South West",7.43041667
+2013,Wales,5.04493333
+2013,"West Midlands",5.05153333
+2013,"Yorkshire and the Humber",4.91587500
+2014,"East Midlands",5.82339167
+2014,"East of England",8.05895000
+2014,London,11.79901667
+2014,"North East",4.50445833
+2014,"North West",4.96902500
+2014,"Northern Ireland",4.15842500
+2014,Scotland,4.68604167
+2014,"South East",8.95302500
+2014,"South West",7.79474167
+2014,Wales,5.22271667
+2014,"West Midlands",5.40025833
+2014,"Yorkshire and the Humber",5.13604167
+2015,"East Midlands",6.14540833
+2015,"East of England",8.68891667
+2015,London,12.89206667
+2015,"North East",4.52825000
+2015,"North West",5.07294167
+2015,"Northern Ireland",4.24765000
+2015,Scotland,4.75775000
+2015,"South East",9.61148333
+2015,"South West",8.14496667
+2015,Wales,5.27821667
+2015,"West Midlands",5.50491667
+2015,"Yorkshire and the Humber",5.30019167
+2016,"East Midlands",6.42608333
+2016,"East of England",9.45498333
+2016,London,13.83705833
+2016,"North East",4.60561667
+2016,"North West",5.23019167
+2016,"Northern Ireland",4.47975000
+2016,Scotland,4.78134167
+2016,"South East",10.30457500
+2016,"South West",8.53650833
+2016,Wales,5.37536667
+2016,"West Midlands",5.77676667
+2016,"Yorkshire and the Humber",5.40579167
+2017,"East Midlands",6.70567500
+2017,"East of England",9.85371667
+2017,London,13.83147500
+2017,"North East",4.62375000
+2017,"North West",5.38293333
+2017,"Northern Ireland",4.65647500
+2017,Scotland,4.85097500
+2017,"South East",10.58110000
+2017,"South West",8.72720833
+2017,Wales,5.47776667
+2017,"West Midlands",6.05845000
+2017,"Yorkshire and the Humber",5.53886667
+2018,"East Midlands",6.83823333
+2018,"East of England",9.86138333
+2018,London,13.41052500
+2018,"North East",4.60718333
+2018,"North West",5.45005000
+2018,"Northern Ireland",4.65975000
+2018,Scotland,4.89889167
+2018,"South East",10.56330000
+2018,"South West",8.78215000
+2018,Wales,5.65537500
+2018,"West Midlands",6.22706667
+2018,"Yorkshire and the Humber",5.59760833
+2019,"East Midlands",6.62720833
+2019,"East of England",9.43826667
+2019,London,12.92681667
+2019,"North East",4.46754167
+2019,"North West",5.43059167
+2019,"Northern Ireland",4.76310000
+2019,Scotland,4.86977500
+2019,"South East",10.06760000
+2019,"South West",8.59122500
+2019,Wales,5.63575833
+2019,"West Midlands",6.20979167
+2019,"Yorkshire and the Humber",5.51673333
+2020,"East Midlands",6.62157500
+2020,"East of England",9.38257500
+2020,London,12.63045833
+2020,"North East",4.45214167
+2020,"North West",5.39633333
+2020,"Northern Ireland",4.73407500
+2020,Scotland,4.75266667
+2020,"South East",9.99256667
+2020,"South West",8.55675000
+2020,Wales,5.65160000
+2020,"West Midlands",6.11409167
+2020,"Yorkshire and the Humber",5.54811667
+2021,"East Midlands",7.37637500
+2021,"East of England",9.99698333
+2021,London,13.47495000
+2021,"North East",4.98665833
+2021,"North West",6.05920833
+2021,"Northern Ireland",5.05827500
+2021,Scotland,5.23662500
+2021,"South East",10.61406667
+2021,"South West",9.38997500
+2021,Wales,6.27225000
+2021,"West Midlands",6.66870833
+2021,"Yorkshire and the Humber",6.09197500
+2022,"East Midlands",7.59862500
+2022,"East of England",10.30194167
+2022,London,13.47928333
+2022,"North East",5.01825833
+2022,"North West",6.37635833
+2022,"Northern Ireland",5.35597500
+2022,Scotland,5.34368333
+2022,"South East",11.04407500
+2022,"South West",9.68680833
+2022,Wales,6.53350000
+2022,"West Midlands",6.93425833
+2022,"Yorkshire and the Humber",6.29756667
+2023,"East Midlands",7.34780833
+2023,"East of England",9.58313333
+2023,London,12.57659167
+2023,"North East",4.79833333
+2023,"North West",5.99840833
+2023,"Northern Ireland",5.05600000
+2023,Scotland,5.00343333
+2023,"South East",10.37258333
+2023,"South West",9.07501667
+2023,Wales,6.21612500
+2023,"West Midlands",6.76406667
+2023,"Yorkshire and the Humber",6.03830000

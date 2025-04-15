@@ -1,0 +1,342 @@
+year,region,sum(h.sales_volume)
+1995,"East Midlands",63894
+1995,"East of England",92291
+1995,London,106850
+1995,"North East",32359
+1995,"North West",92502
+1995,"South East",140763
+1995,"South West",81821
+1995,Wales,33393
+1995,"West Midlands",29766
+1995,"Yorkshire and The Humber",70366
+1996,"East Midlands",76043
+1996,"East of England",113692
+1996,London,132953
+1996,"North East",37408
+1996,"North West",105566
+1996,"South East",175484
+1996,"South West",105077
+1996,Wales,40854
+1996,"West Midlands",35167
+1996,"Yorkshire and The Humber",79911
+1997,"East Midlands",85559
+1997,"East of England",130067
+1997,London,154343
+1997,"North East",40730
+1997,"North West",118108
+1997,"South East",199713
+1997,"South West",121273
+1997,Wales,46824
+1997,"West Midlands",38682
+1997,"Yorkshire and The Humber",88161
+1998,"East Midlands",83923
+1998,"East of England",123633
+1998,London,145942
+1998,"North East",41352
+1998,"North West",117472
+1998,"South East",186480
+1998,"South West",116230
+1998,Wales,44191
+1998,"West Midlands",37610
+1998,"Yorkshire and The Humber",86360
+1999,"East Midlands",95997
+1999,"East of England",143569
+1999,London,169076
+1999,"North East",43923
+1999,"North West",129797
+1999,"South East",213873
+1999,"South West",134494
+1999,Wales,48361
+1999,"West Midlands",42458
+1999,"Yorkshire and The Humber",96902
+2000,"East Midlands",94835
+2000,"East of England",128113
+2000,London,149269
+2000,"North East",46504
+2000,"North West",133589
+2000,"South East",187357
+2000,"South West",119910
+2000,Wales,53083
+2000,"West Midlands",43271
+2000,"Yorkshire and The Humber",99343
+2001,"East Midlands",105450
+2001,"East of England",143057
+2001,London,162744
+2001,"North East",52482
+2001,"North West",144511
+2001,"South East",208740
+2001,"South West",132288
+2001,Wales,58755
+2001,"West Midlands",46704
+2001,"Yorkshire and The Humber",111459
+2002,"East Midlands",113330
+2002,"East of England",148724
+2002,London,173993
+2002,"North East",58884
+2002,"North West",166330
+2002,"South East",222779
+2002,"South West",137257
+2002,Wales,66096
+2002,"West Midlands",51296
+2002,"Yorkshire and The Humber",123402
+2003,"East Midlands",104241
+2003,"East of England",134363
+2003,London,153784
+2003,"North East",60741
+2003,"North West",167183
+2003,"South East",196366
+2003,"South West",123609
+2003,Wales,63583
+2003,"West Midlands",49054
+2003,"Yorkshire and The Humber",121996
+2004,"East Midlands",104228
+2004,"East of England",139284
+2004,London,163797
+2004,"North East",58711
+2004,"North West",164810
+2004,Scotland,139439
+2004,"South East",206226
+2004,"South West",123958
+2004,Wales,57328
+2004,"West Midlands",49640
+2004,"Yorkshire and The Humber",119469
+2005,"East Midlands",86521
+2005,"East of England",117442
+2005,London,136836
+2005,"North East",49104
+2005,"North West",131470
+2005,"Northern Ireland",28974
+2005,Scotland,138979
+2005,"South East",173615
+2005,"South West",106930
+2005,Wales,47159
+2005,"West Midlands",42452
+2005,"Yorkshire and The Humber",101204
+2006,"East Midlands",107612
+2006,"East of England",147930
+2006,London,171450
+2006,"North East",59632
+2006,"North West",161033
+2006,"Northern Ireland",41076
+2006,Scotland,150360
+2006,"South East",222571
+2006,"South West",138978
+2006,Wales,59059
+2006,"West Midlands",51278
+2006,"Yorkshire and The Humber",124005
+2007,"East Midlands",103208
+2007,"East of England",141659
+2007,London,165571
+2007,"North East",60742
+2007,"North West",157670
+2007,"Northern Ireland",29055
+2007,Scotland,149684
+2007,"South East",212883
+2007,"South West",128768
+2007,Wales,57166
+2007,"West Midlands",50230
+2007,"Yorkshire and The Humber",118234
+2008,"East Midlands",53760
+2008,"East of England",70640
+2008,London,80921
+2008,"North East",29742
+2008,"North West",78346
+2008,"Northern Ireland",10818
+2008,Scotland,94698
+2008,"South East",108316
+2008,"South West",66979
+2008,Wales,30576
+2008,"West Midlands",27028
+2008,"Yorkshire and The Humber",61681
+2009,"East Midlands",51683
+2009,"East of England",75599
+2009,London,75231
+2009,"North East",23954
+2009,"North West",66396
+2009,"Northern Ireland",11640
+2009,Scotland,69022
+2009,"South East",116116
+2009,"South West",74733
+2009,Wales,28557
+2009,"West Midlands",22307
+2009,"Yorkshire and The Humber",53289
+2010,"East Midlands",53696
+2010,"East of England",79373
+2010,London,91933
+2010,"North East",25421
+2010,"North West",70127
+2010,"Northern Ireland",10719
+2010,Scotland,72217
+2010,"South East",120594
+2010,"South West",75745
+2010,Wales,30473
+2010,"West Midlands",23972
+2010,"Yorkshire and The Humber",54541
+2011,"East Midlands",53668
+2011,"East of England",79953
+2011,London,90041
+2011,"North East",26637
+2011,"North West",70860
+2011,"Northern Ireland",11304
+2011,Scotland,69023
+2011,"South East",119382
+2011,"South West",74001
+2011,Wales,30285
+2011,"West Midlands",24314
+2011,"Yorkshire and The Humber",55051
+2012,"East Midlands",54487
+2012,"East of England",80403
+2012,London,93859
+2012,"North East",26030
+2012,"North West",69479
+2012,"Northern Ireland",13626
+2012,Scotland,72489
+2012,"South East",122349
+2012,"South West",75650
+2012,Wales,30380
+2012,"West Midlands",23725
+2012,"Yorkshire and The Humber",55827
+2013,"East Midlands",65842
+2013,"East of England",95979
+2013,London,111973
+2013,"North East",30555
+2013,"North West",85701
+2013,"Northern Ireland",16575
+2013,Scotland,84318
+2013,"South East",145317
+2013,"South West",89891
+2013,Wales,36612
+2013,"West Midlands",28241
+2013,"Yorkshire and The Humber",67274
+2014,"East Midlands",80522
+2014,"East of England",114569
+2014,London,121949
+2014,"North East",37425
+2014,"North West",106022
+2014,"Northern Ireland",21225
+2014,Scotland,94102
+2014,"South East",169830
+2014,"South West",107001
+2014,Wales,43613
+2014,"West Midlands",34339
+2014,"Yorkshire and The Humber",81789
+2015,"East Midlands",80566
+2015,"East of England",111639
+2015,London,116572
+2015,"North East",37854
+2015,"North West",109899
+2015,"Northern Ireland",21900
+2015,Scotland,98538
+2015,"South East",166244
+2015,"South West",106745
+2015,Wales,44417
+2015,"West Midlands",35758
+2015,"Yorkshire and The Humber",81711
+2016,"East Midlands",83631
+2016,"East of England",109404
+2016,London,104805
+2016,"North East",38459
+2016,"North West",114828
+2016,"Northern Ireland",22992
+2016,Scotland,98670
+2016,"South East",159512
+2016,"South West",108101
+2016,Wales,46361
+2016,"West Midlands",36857
+2016,"Yorkshire and The Humber",83872
+2017,"East Midlands",82255
+2017,"East of England",104567
+2017,London,96040
+2017,"North East",40518
+2017,"North West",117838
+2017,"Northern Ireland",24603
+2017,Scotland,103109
+2017,"South East",153884
+2017,"South West",106189
+2017,Wales,49047
+2017,"West Midlands",36463
+2017,"Yorkshire and The Humber",87259
+2018,"East Midlands",80700
+2018,"East of England",99714
+2018,London,89903
+2018,"North East",39746
+2018,"North West",115908
+2018,"Northern Ireland",25026
+2018,Scotland,100499
+2018,"South East",145494
+2018,"South West",100776
+2018,Wales,48452
+2018,"West Midlands",36285
+2018,"Yorkshire and The Humber",85829
+2019,"East Midlands",77349
+2019,"East of England",96291
+2019,London,86241
+2019,"North East",39410
+2019,"North West",113509
+2019,"Northern Ireland",24936
+2019,Scotland,102856
+2019,"South East",139774
+2019,"South West",95452
+2019,Wales,46881
+2019,"West Midlands",34337
+2019,"Yorkshire and The Humber",84449
+2020,"East Midlands",63600
+2020,"East of England",82391
+2020,London,74812
+2020,"North East",33110
+2020,"North West",93697
+2020,"Northern Ireland",21234
+2020,Scotland,88928
+2020,"South East",121307
+2020,"South West",80698
+2020,Wales,35789
+2020,"West Midlands",26800
+2020,"Yorkshire and The Humber",70001
+2021,"East Midlands",95516
+2021,"East of England",131057
+2021,London,119093
+2021,"North East",49261
+2021,"North West",137333
+2021,"Northern Ireland",30744
+2021,Scotland,114022
+2021,"South East",195038
+2021,"South West",124974
+2021,Wales,55207
+2021,"West Midlands",39320
+2021,"Yorkshire and The Humber",101354
+2022,"East Midlands",80975
+2022,"East of England",105665
+2022,London,100239
+2022,"North East",43863
+2022,"North West",115743
+2022,"Northern Ireland",25299
+2022,Scotland,103600
+2022,"South East",153980
+2022,"South West",99191
+2022,Wales,47513
+2022,"West Midlands",33524
+2022,"Yorkshire and The Humber",86187
+2023,"East Midlands",58424
+2023,"East of England",72983
+2023,London,71072
+2023,"North East",34279
+2023,"North West",85678
+2023,"Northern Ireland",22017
+2023,Scotland,91805
+2023,"South East",108320
+2023,"South West",73372
+2023,Wales,34835
+2023,"West Midlands",24388
+2023,"Yorkshire and The Humber",65139
+2024,"East Midlands",48370
+2024,"East of England",62348
+2024,London,62599
+2024,"North East",27418
+2024,"North West",72321
+2024,"Northern Ireland",20903
+2024,Scotland,90798
+2024,"South East",93439
+2024,"South West",62437
+2024,Wales,29245
+2024,"West Midlands",20411
+2024,"Yorkshire and The Humber",54076

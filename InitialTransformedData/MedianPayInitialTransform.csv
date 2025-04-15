@@ -1,0 +1,301 @@
+﻿Region,Year,MedianSalary
+        North East,1999,16282
+        North East,2000,17430
+        North East,2001,17844
+        North East,2002,18076
+        North East,2003,18228
+        North East,2004,19247
+        North East,2005,20263
+        North East,2006,20613
+        North East,2007,21076
+        North East,2008,21931
+        North East,2009,22684
+        North East,2010,23124
+        North East,2011,23250
+        North East,2012,23781
+        North East,2013,24113
+        North East,2014,24904
+        North East,2015,25347
+        North East,2016,25561
+        North East,2017,25904
+        North East,2018,26355
+        North East,2019,27234
+        North East,2020,27833
+        North East,2021,27560
+        North East,2022,29519
+        North East,2023,31200
+        North West,1999,16977
+        North West,2000,17863
+        North West,2001,18567
+        North West,2002,19234
+        North West,2003,19916
+        North West,2004,20717
+        North West,2005,21777
+        North West,2006,22000
+        North West,2007,22889
+        North West,2008,23740
+        North West,2009,24020
+        North West,2010,24127
+        North West,2011,24167
+        North West,2012,24603
+        North West,2013,25111
+        North West,2014,25262
+        North West,2015,25667
+        North West,2016,26220
+        North West,2017,26754
+        North West,2018,27376
+        North West,2019,28175
+        North West,2020,29459
+        North West,2021,29371
+        North West,2022,30698
+        North West,2023,33036
+        Yorkshire and The Humber,1999,16527
+        Yorkshire and The Humber,2000,17503
+        Yorkshire and The Humber,2001,18270
+        Yorkshire and The Humber,2002,18863
+        Yorkshire and The Humber,2003,19659
+        Yorkshire and The Humber,2004,20433
+        Yorkshire and The Humber,2005,21506
+        Yorkshire and The Humber,2006,21674
+        Yorkshire and The Humber,2007,22307
+        Yorkshire and The Humber,2008,23357
+        Yorkshire and The Humber,2009,23891
+        Yorkshire and The Humber,2010,23856
+        Yorkshire and The Humber,2011,24119
+        Yorkshire and The Humber,2012,24288
+        Yorkshire and The Humber,2013,24933
+        Yorkshire and The Humber,2014,24999
+        Yorkshire and The Humber,2015,25194
+        Yorkshire and The Humber,2016,25946
+        Yorkshire and The Humber,2017,26309
+        Yorkshire and The Humber,2018,26892
+        Yorkshire and The Humber,2019,27879
+        Yorkshire and The Humber,2020,28709
+        Yorkshire and The Humber,2021,28732
+        Yorkshire and The Humber,2022,30354
+        Yorkshire and The Humber,2023,31920
+        East Midlands,1999,16392
+        East Midlands,2000,17352
+        East Midlands,2001,18291
+        East Midlands,2002,19125
+        East Midlands,2003,19847
+        East Midlands,2004,20691
+        East Midlands,2005,21494
+        East Midlands,2006,21946
+        East Midlands,2007,22222
+        East Midlands,2008,23271
+        East Midlands,2009,24357
+        East Midlands,2010,24118
+        East Midlands,2011,24002
+        East Midlands,2012,24626
+        East Midlands,2013,24918
+        East Midlands,2014,25000
+        East Midlands,2015,25003
+        East Midlands,2016,25474
+        East Midlands,2017,25882
+        East Midlands,2018,26711
+        East Midlands,2019,28044
+        East Midlands,2020,29043
+        East Midlands,2021,28363
+        East Midlands,2022,30345
+        East Midlands,2023,31634
+        West Midlands,1999,17000
+        West Midlands,2000,17812
+        West Midlands,2001,18756
+        West Midlands,2002,19225
+        West Midlands,2003,19786
+        West Midlands,2004,20765
+        West Midlands,2005,21447
+        West Midlands,2006,22000
+        West Midlands,2007,22543
+        West Midlands,2008,23849
+        West Midlands,2009,23958
+        West Midlands,2010,23831
+        West Midlands,2011,24291
+        West Midlands,2012,24573
+        West Midlands,2013,25328
+        West Midlands,2014,24963
+        West Midlands,2015,25682
+        West Midlands,2016,26352
+        West Midlands,2017,26837
+        West Midlands,2018,27682
+        West Midlands,2019,28549
+        West Midlands,2020,29628
+        West Midlands,2021,29893
+        West Midlands,2022,31545
+        West Midlands,2023,33003
+        East,1999,18000
+        East,2000,19020
+        East,2001,19978
+        East,2002,20495
+        East,2003,21511
+        East,2004,22242
+        East,2005,22883
+        East,2006,23517
+        East,2007,24061
+        East,2008,24949
+        East,2009,25500
+        East,2010,25379
+        East,2011,25953
+        East,2012,26145
+        East,2013,26514
+        East,2014,26817
+        East,2015,27300
+        East,2016,27892
+        East,2017,28456
+        East,2018,29153
+        East,2019,30350
+        East,2020,31016
+        East,2021,30735
+        East,2022,32615
+        East,2023,34833
+        London,1999,22487
+        London,2000,24204
+        London,2001,25215
+        London,2002,26467
+        London,2003,27455
+        London,2004,28750
+        London,2005,29882
+        London,2006,30355
+        London,2007,31484
+        London,2008,32813
+        London,2009,33700
+        London,2010,33990
+        London,2011,34396
+        London,2012,34883
+        London,2013,35173
+        London,2014,35034
+        London,2015,35303
+        London,2016,36170
+        London,2017,37171
+        London,2018,38146
+        London,2019,39013
+        London,2020,40994
+        London,2021,39737
+        London,2022,41987
+        London,2023,44370
+        South East,1999,18737
+        South East,2000,19992
+        South East,2001,20907
+        South East,2002,21940
+        South East,2003,22843
+        South East,2004,23748
+        South East,2005,24229
+        South East,2006,24798
+        South East,2007,25583
+        South East,2008,26778
+        South East,2009,27458
+        South East,2010,27503
+        South East,2011,27881
+        South East,2012,28175
+        South East,2013,28315
+        South East,2014,28607
+        South East,2015,29031
+        South East,2016,29700
+        South East,2017,30236
+        South East,2018,30849
+        South East,2019,32127
+        South East,2020,32980
+        South East,2021,32827
+        South East,2022,34500
+        South East,2023,36560
+        South West,1999,16727
+        South West,2000,17847
+        South West,2001,18465
+        South West,2002,19233
+        South West,2003,20000
+        South West,2004,20694
+        South West,2005,21279
+        South West,2006,21815
+        South West,2007,22685
+        South West,2008,23648
+        South West,2009,24175
+        South West,2010,24098
+        South West,2011,24306
+        South West,2012,24581
+        South West,2013,25242
+        South West,2014,25585
+        South West,2015,25950
+        South West,2016,26372
+        South West,2017,27119
+        South West,2018,27956
+        South West,2019,28721
+        South West,2020,29751
+        South West,2021,29002
+        South West,2022,31371
+        South West,2023,33450
+    Wales,1999,16457
+    Wales,2000,17157
+    Wales,2001,18018
+    Wales,2002,18189
+    Wales,2003,19130
+    Wales,2004,20085
+    Wales,2005,20634
+    Wales,2006,20790
+    Wales,2007,21105
+    Wales,2008,21830
+    Wales,2009,22800
+    Wales,2010,23178
+    Wales,2011,23397
+    Wales,2012,23617
+    Wales,2013,24103
+    Wales,2014,24453
+    Wales,2015,24869
+    Wales,2016,25440
+    Wales,2017,26026
+    Wales,2018,26353
+    Wales,2019,27466
+    Wales,2020,28387
+    Wales,2021,28527
+    Wales,2022,30630
+    Wales,2023,32371
+    Scotland,1999,16914
+    Scotland,2000,18029
+    Scotland,2001,18610
+    Scotland,2002,19167
+    Scotland,2003,19799
+    Scotland,2004,20598
+    Scotland,2005,21312
+    Scotland,2006,22373
+    Scotland,2007,23098
+    Scotland,2008,24105
+    Scotland,2009,24993
+    Scotland,2010,25205
+    Scotland,2011,25291
+    Scotland,2012,25780
+    Scotland,2013,26489
+    Scotland,2014,27038
+    Scotland,2015,27687
+    Scotland,2016,27925
+    Scotland,2017,28335
+    Scotland,2018,29289
+    Scotland,2019,30000
+    Scotland,2020,31604
+    Scotland,2021,31504
+    Scotland,2022,33310
+    Scotland,2023,35518
+    Northern Ireland,1999,15798
+    Northern Ireland,2000,16599
+    Northern Ireland,2001,17529
+    Northern Ireland,2002,18325
+    Northern Ireland,2003,18502
+    Northern Ireland,2004,19622
+    Northern Ireland,2005,20060
+    Northern Ireland,2006,20739
+    Northern Ireland,2007,20934
+    Northern Ireland,2008,22122
+    Northern Ireland,2009,23023
+    Northern Ireland,2010,22394
+    Northern Ireland,2011,23034
+    Northern Ireland,2012,23944
+    Northern Ireland,2013,23952
+    Northern Ireland,2014,24491
+    Northern Ireland,2015,25719
+    Northern Ireland,2016,25978
+    Northern Ireland,2017,25935
+    Northern Ireland,2018,27101
+    Northern Ireland,2019,27437
+    Northern Ireland,2020,28624
+    Northern Ireland,2021,29073
+    Northern Ireland,2022,30218
+    Northern Ireland,2023,32879
