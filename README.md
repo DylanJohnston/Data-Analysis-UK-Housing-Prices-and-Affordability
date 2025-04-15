@@ -3,7 +3,7 @@
 
 # Background
 
-This report explores trends in UK house prices over time, both in nominal terms and adjusted for inflation using the Consumer Prices Index (including owner occupiers’ housing costs) (CPIH). It also investigates housing affordability, measured as the ratio between average house prices and median salaries. In addition, the report analyses monthly sales volumes and offers a regional breakdown of housing activity across the UK.
+This report explores trends in UK house prices over time, both in nominal terms and adjusted for inflation using the Consumer Price Index (including owner occupiers’ housing costs) (CPIH). It also investigates housing affordability, measured as the ratio between average house prices and median salaries. In addition, the report analyses monthly sales volumes and offers a regional breakdown of housing activity across the UK.
 
 # Objectives
 
