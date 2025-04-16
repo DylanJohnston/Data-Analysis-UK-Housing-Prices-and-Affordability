@@ -95,6 +95,7 @@ root/
 │   ├── HPINational.csv
 │   ├── MedianPayInitialTransform.csv
 │   └── MedianSalaryNational.csv
+|
 ├── ReportWalkthrough/
 │   ├── documentation_images/
 │   │   └── ...
@@ -105,9 +106,12 @@ root/
 |   ├── Part3-SQL-Quick-Insights-Walkthrough.ipynb
 |   ├── Part4-PowerBI-Report-Walkthrough.ipynb
 |   └── VisualsForInsights.pbix
+|
 ├── WriteUpImages/
 │   └── ...
+|
 ├── HousingReport.pbix
+|
 └── README.md
 ```
 
